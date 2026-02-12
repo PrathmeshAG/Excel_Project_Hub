@@ -52,7 +52,7 @@ These KPIs provide a **high-level snapshot of financial health and customer valu
 - Identification of **revenue contribution by location**
 - Insights to support **location-level optimization strategies**
 
-![Store Performance](Coffee_Shop_Sales_Dashboard.png)
+![Store Performance](Coffee_Shop_Sales_Dashboard_1.png)
 
 </details>
 
@@ -80,7 +80,7 @@ These KPIs provide a **high-level snapshot of financial health and customer valu
 
 Supports **forecasting, budgeting, and performance monitoring**.
 
-![Monthly Trends](Coffee_Shop_Sales_Dashboard_1.png)
+![Monthly Trends](Coffee_Shop_Sales_Dashboard_2.png)
 
 </details>
 
