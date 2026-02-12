@@ -16,6 +16,7 @@ This project is highly aligned with **Data Analyst and Business Analyst portfoli
 <img src="Coffee_Shop_Sales_Dashboard.png" alt="Coffee_Shop_Sales_Dashboard"/>
 
 
+
 ---
 
 ## 🎯 Business Objectives
@@ -24,7 +25,6 @@ This project is highly aligned with **Data Analyst and Business Analyst portfoli
 - Analyze **store-wise performance**
 - Identify **weekly and monthly sales trends**
 - Track **key revenue and customer metrics**
-- Enable **self-service analytics** using interactive controls
 
 ---
 
@@ -39,7 +39,7 @@ This project is highly aligned with **Data Analyst and Business Analyst portfoli
 
 These KPIs provide a **high-level snapshot of financial health and customer value efficiency**, supporting quick executive review.
 
-![KPI Section](assets/kpi-section.png)
+![KPI Section](Coffee_Shop_Sales_Dashboard_1.png)
 
 </details>
 
@@ -52,7 +52,7 @@ These KPIs provide a **high-level snapshot of financial health and customer valu
 - Identification of **revenue contribution by location**
 - Insights to support **location-level optimization strategies**
 
-![Store Performance](assets/store-performance.png)
+![Store Performance](Coffee_Shop_Sales_Dashboard.png)
 
 </details>
 
@@ -65,7 +65,7 @@ These KPIs provide a **high-level snapshot of financial health and customer valu
 - Weekly revenue and footfall patterns
 - Operational insights for **staffing and inventory planning**
 
-![Weekly Analysis](assets/weekly-analysis.png)
+![Weekly Analysis](Coffee_Shop_Sales_Dashboard_2.png)
 
 </details>
 
@@ -80,25 +80,13 @@ These KPIs provide a **high-level snapshot of financial health and customer valu
 
 Supports **forecasting, budgeting, and performance monitoring**.
 
-![Monthly Trends](assets/monthly-trends.png)
+![Monthly Trends](Coffee_Shop_Sales_Dashboard_1.png)
 
 </details>
 
 ---
 
-<details>
-<summary><strong>🧩 Interactive Dashboard Features</strong></summary>
 
-- **Slicers implemented for:**
-  - Store Location
-  - Week
-  - Month
-- Fully **dynamic dashboard**
-- Automatic recalculation based on user selection
-
-Designed for **executive usability and operational clarity**.
-
-</details>
 
 ---
 
@@ -113,24 +101,10 @@ Designed for **executive usability and operational clarity**.
 
 ---
 
-## 💼 Portfolio Value
-
-This project demonstrates:
-- Strong **analytical thinking**
-- Practical **dashboard development skills**
-- Ability to translate data into **business insights**
-- Readiness for **Data Analyst / Business Analyst roles**
-
----
 
 ## 🚀 Conclusion
 
 The **Coffee Shop Sales Analysis Dashboard** delivers a **scalable, insight-driven reporting solution** that empowers stakeholders to make **data-backed business decisions**.  
 It reflects **industry-aligned analytics practices and professional reporting standards**.
 
----
 
-### 📂 Project Files
-- `Coffee_Shop_Sales_Dashboard.xlsx`
-- `Raw_Sales_Data.xlsx`
-- `README.md`
